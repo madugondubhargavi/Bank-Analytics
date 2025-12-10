@@ -41,8 +41,8 @@ To analyze and visualize credit and debit transactions across multiple banks and
 ---
 
 ##  Files Included
-- `credit-debit-dashboard.xlsx` — Excel Dashboard File  
-- `credit-debit-dashboard.png` — Screenshot of the Dashboard  
+- `credit-debit-dashboard.xlsx` — https://github.com/madugondubhargavi/Bank-Analytics/blob/main/Final%20Bank%20Credit%20And%20Debit%20Dashboard-Main.xlsx
+- `credit-debit-dashboard.png` — https://github.com/madugondubhargavi/Bank-Analytics/blob/main/credit-debit-dashboard.png  
 
 ---
 
